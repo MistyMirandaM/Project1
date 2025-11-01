@@ -30,7 +30,7 @@ This project was built to practice front-end development skills while keeping th
 <img src="images/custom.png" alt="Custom Page" width="100%">
 
 ### Contact Page
-<img src="images/contact.png" alt="Contact Page" width="100%">
+<img src="images/purchase.png" alt="Contact Page" width="100%">
 ---
 
 ## How to View
